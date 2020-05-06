@@ -120,4 +120,4 @@ print("{0}(馬)の騎手は{1}です。".format(hor.name, hor.rider.name))
 
 #▲▲ チャレンジ4 ▲▲
 
-# 解答URL：<http://tinyurl.com/hz9qdh3>
+# 解答URL：http://tinyurl.com/hz9qdh3
